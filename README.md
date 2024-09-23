@@ -2,7 +2,7 @@
 
 I'm a passionate Full Stack Developer and a proud graduate in Information Technology.  I have a relentless curiosity to explore new technologies. Whether it's building dynamic user interfaces with React or crafting robust backend services with the MERN stack, I'm all in!<br><br>🔭 I’m currently working on building scalable applications using the MERN stack.<br>🌱 I’m always exploring new technologies and refining my skills.<br>⚡ Fun fact: I can spend hours debugging code, but still get lost in my own city!
 
-https://tenor.com/bapvq.gif
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/JWybLzXs7Hn0JKhSji" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/cartoon-work-computer-JWybLzXs7Hn0JKhSji">via GIPHY</a></p>
 
 
 # 💻 Tech Stack:
