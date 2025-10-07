@@ -1,6 +1,3 @@
-# 💫 Hey there 👋, Fiza here
-
-I'm a passionate Full Stack Developer and a proud graduate in Information Technology.  I have a relentless curiosity to explore new technologies. Whether it's building dynamic user interfaces with React or crafting robust backend services with the MERN stack, I'm all in!<br><br>🔭 I’m currently working on building scalable applications using the MERN stack.<br>🌱 I’m always exploring new technologies and refining my skills.<br>⚡ Fun fact: I can spend hours debugging code, but still get lost in my own city!
 
 # 💻 Tech Stack:
 
